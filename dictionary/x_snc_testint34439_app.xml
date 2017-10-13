@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="App" max_length="40" name="x_snc_testint34439_app" type="collection">
+        <element label="Name1" max_length="40" name="name1" type="string"/>
+    </element>
+</database>
